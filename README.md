@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnderwoodW
-- 👀 I’m interested in Python, SQL, Game Development and more!
+- 👀 I’m interested in Python, SQL, Game Development, Robotics and more!
 - 🌱 I’m currently learning Advanced Python, SQL, C++
 - 💞️ I’m looking to collaborate on whatever open source projects i may find! I haven't contributed to anything yet.
 - 😄 Pronouns: He/Him
